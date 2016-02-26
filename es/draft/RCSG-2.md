@@ -25,7 +25,8 @@ Las conexiones de los servos son uno de los mayores problemas que podemos encont
 
 Por tanto vamos a detallar los colores y conexiones de cada tipo de servo.
 
+**Fig.1**
+
 ![](../figures/rcgs-2/1_es.jpg)
-Fig.1
 
 En conocimiento de lo visible en la Fig.1 se propone el uso de los conectores de tipo *case* en cualquier montaje para facilitar su compatibilidad con los distintos sistemas.
