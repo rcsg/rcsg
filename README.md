@@ -1,4 +1,3 @@
-# rcsg
-RCSGs
+# RCSG - Radio Control Standard Group
 
-[RCSGs Español](es/list.md)
+* [RCSGs Español](es/list.md)
